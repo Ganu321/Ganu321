@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ganu321
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Proramming language
-- 💞️ I’m looking to collaborate onProgram
+- 💞️ I’m looking to collaborate on Program
 - 📫 How to reach me to became Software Engineaar
 
 <!---
